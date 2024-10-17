@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning about the nix ecosystem & Neovim.
+- ⏲️ In my spare time, I enjoy table tennis 🏓, live music🎸, hiking🥾 ,traveling✈️
+- 💬 Ask me about 🐧, containers, SDLC
+- 📫 How to reach me: raphael.bouchard.2@etsmtl.net
+- ⚡ Fun fact: Top lesson learned from engineering: make a plan.
