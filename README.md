@@ -1,7 +1,9 @@
 - 🌱 I’m currently learning about the nix ecosystem & Neovim
 - ⏲️ In my spare time, I enjoy table tennis, live music, hiking, traveling
 - 💬 Ask me about 🐧, ☁️, containers,  SDLC
-- 📫 How to reach me: raphael.bouchard.2@etsmtl.net
+- 📫 How to reach me: 
+    - Mail: <a href="mailto:raphael.bouchard.2@etsmtl.net"><p>raphael.bouchard.2@etsmtl.net</p></a>
+    - Linkedin: https://www.linkedin.com/in/rapha%C3%ABl-b-962714a2/
 - 📖 Some books I loved reading:
     - Daniel Pennac - La fée carabine
     - Patrick Sénécal - Le vide
