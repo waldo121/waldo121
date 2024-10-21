@@ -6,5 +6,5 @@
     - Daniel Pennac - La fée carabine
     - Patrick Sénécal - Le vide
     - George R.R. Martin - A song of ice and fire (saga)
-    - Gene Kim - The unicorn project
+    - Gene Kim - The phoenix project
 - 👨‍💼 Career Goals: Backend software engineering --> later on SRE kindof stuff
