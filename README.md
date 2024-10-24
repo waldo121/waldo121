@@ -9,4 +9,4 @@
     - Patrick Sénécal - Le vide
     - George R.R. Martin - A song of ice and fire (saga)
     - Gene Kim - The phoenix project
-- 👨‍💼 Career Goals: Backend software engineering --> later on SRE kindof stuff
+- 👨‍💼 Career Goals: Backend software engineering
