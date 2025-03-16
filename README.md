@@ -10,3 +10,4 @@
     - George R.R. Martin - A song of ice and fire (saga)
     - Gene Kim - The phoenix project
 - 👨‍💼 Career Goals: Backend software engineering
+- My site: https://waldo121.github.io/
